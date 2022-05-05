@@ -6,6 +6,9 @@
 [GitHub上md文件语法解读](https://blog.csdn.net/guodongxiaren/article/details/23690801)
 
 ---
+[【好站推荐】一键下载Github上的指定文件或文件夹（无需Clone整个项目）](https://blog.csdn.net/qq_41017902/article/details/108251777?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&utm_relevant_index=1)
+
+---
 [pip install 代理出错的解决办法](https://blog.csdn.net/liu6tot/article/details/111168897)
 
 ---
