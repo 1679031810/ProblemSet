@@ -12,7 +12,8 @@
 [WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)'))': /simple/setuptools/](https://blog.csdn.net/zqx7876/article/details/122507795)
 
 ---
-- 用清华源安装python包 `pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple`
+- 用清华源安装python包 `pip install xxx -i https://pypi.tuna.tsinghua.edu.cn/simple`
+- 豆瓣源 `pip install xxx -i http://pypi.douban.com/simple --trusted-host pypi.douban.com `
 
 ---
 
