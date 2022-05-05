@@ -4,5 +4,5 @@
 
 [pip install 代理出错的解决办法](https://blog.csdn.net/liu6tot/article/details/111168897)
 
-
+用清华源安装python包 `pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple`
 
