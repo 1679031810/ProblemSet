@@ -1,1 +1,1 @@
-# 日常生活中碰到的问题
+- pip install xxx -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
