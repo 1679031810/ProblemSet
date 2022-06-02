@@ -1,1 +1,3 @@
 - pip install xxx -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+---
+-  [Python 自动化操作 Excel 看这一篇就够了](https://zhuanlan.zhihu.com/p/259583430)
