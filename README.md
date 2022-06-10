@@ -2,3 +2,4 @@
 ---
 -  [Python 自动化操作 Excel 看这一篇就够了](http://www.ityouknow.com/python/2019/12/29/python-excel-103.html)
 -  [利用python做矩阵的简单运算（行列式、特征值、特征向量等的求解）](https://blog.csdn.net/tanlangqie/article/details/78239518?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-78239518-blog-81240082.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-78239518-blog-81240082.pc_relevant_default&utm_relevant_index=2)
+-  [Python对PDF进行一系列操作，很详细](https://mp.weixin.qq.com/s/uqsDqS6LH60qtxE8sW0ySg)
